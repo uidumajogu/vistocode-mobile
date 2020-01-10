@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "955851912111",
+    "firebase_url": "https://digitalvisitorregister.firebaseio.com",
+    "project_id": "digitalvisitorregister",
+    "storage_bucket": "digitalvisitorregister.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955851912111:android:c6da208522d3148f",
+        "android_client_info": {
+          "package_name": "com.remphil.visitorregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955851912111-7cbrric3hndkeoq0dn039kfn8e5b2c5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_XMojMoJsFA21b3FFweBbjKOk-CXE12c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955851912111-7cbrric3hndkeoq0dn039kfn8e5b2c5h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955851912111-4bhu4dcelqa2s85gn7cv83qfadcrcb44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fff.kkk"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955851912111:android:cd61ece52abc1a94",
+        "android_client_info": {
+          "package_name": "com.remphil.vistocode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955851912111-7cbrric3hndkeoq0dn039kfn8e5b2c5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_XMojMoJsFA21b3FFweBbjKOk-CXE12c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955851912111-7cbrric3hndkeoq0dn039kfn8e5b2c5h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955851912111-4bhu4dcelqa2s85gn7cv83qfadcrcb44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fff.kkk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
